@@ -10,7 +10,7 @@ public class Employeeinformation {
 		
 		System.out.println("이름" + name);
 		System.out.println("입사년도" + year);
-		System.out.println("근무년수: "+ today-pyear);
+		System.out.println("근무년수: " + (today - pyear));
 		
 		
 		
